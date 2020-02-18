@@ -1,0 +1,40 @@
+package TesteDeSistema.Selenium;
+
+import static org.junit.Assert.assertTrue;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public void deveAdicionarUsuario {
+
+	public static void main(String[] args) {
+		
+    	System.setProperty("webdriver.gecko.driver", "C:\\Users\\marcos.souza\\Documents\\Marcos\\"
+    			+ "Java\\Selenium\\downloads\\geckodriver.exe");
+		WebDriver driver = new FirefoxDriver();
+		driver.get("http://localhost:8080/usuarios/new");
+		
+		WebElement nome = driver.findElement(By.name("usuario.nome"));
+		WebElement email = driver.findElement(By.name("usuario.email"));
+		
+		nome.sendKeys("Marcos de Souza");
+		email.sendKeys("marcos.souza@rsinet.com.br");
+		
+		WebElement botaoSalvar = driver.findElement(By.id("btnSalvar"));
+		botaoSalvar.click();
+		
+//		nome.submit();
+//		email.submit();
+		
+		boolean achouNome = driver.getPageSource().contains("Marcos de Souza");
+		boolean achouEmail = driver.getPageSource().contains("marcos.souza@rsinet.com.br");
+		
+		assertTrue(achouNome);
+		
+		
+		
+	}
+
+}

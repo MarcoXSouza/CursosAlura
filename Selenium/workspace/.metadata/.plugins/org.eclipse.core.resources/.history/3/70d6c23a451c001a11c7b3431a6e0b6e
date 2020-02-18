@@ -1,0 +1,17 @@
+package TesteDeSistema.Selenium;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class UsuariosSystemTest {
+
+	public static void main(String[] args) {
+		
+    	System.setProperty("webdriver.gecko.driver", "C:\\Users\\marcos.souza\\Documents\\Marcos\\"
+    			+ "Java\\Selenium\\downloads\\geckodriver.exe");
+		WebDriver driver = new FirefoxDriver();
+		driver.get("http://localhost:8080/usuarios/new");
+		
+	}
+
+}

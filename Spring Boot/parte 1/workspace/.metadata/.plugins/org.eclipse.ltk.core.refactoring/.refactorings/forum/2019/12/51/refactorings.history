@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;header&apos; from expression &apos;request.getHeader(&quot;Authorization&quot;)&apos;&#x0D;&#x0A;- Original project: &apos;forum&apos;&#x0D;&#x0A;- Variable name: &apos;header&apos;&#x0D;&#x0A;- Destination method: &apos;br.com.alura.forum.config.security.AutenticacaoViaTokenFilter.recuperarToken()&apos;&#x0D;&#x0A;- Variable expression: &apos;request.getHeader(&quot;Authorization&quot;)&apos;" description="Extract local variable &apos;header&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java&lt;br.com.alura.forum.config.security{AutenticacaoViaTokenFilter.java" name="header" replace="false" selection="758 0" stamp="1576593122938" varType="false" version="1.0"/>
+</session>

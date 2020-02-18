@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\marcos.souza\Documents\Marcos\Java\Alura Cursos\Eclipse - Produtividade Extrema\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3067243943.index

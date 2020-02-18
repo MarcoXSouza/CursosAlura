@@ -1,0 +1,13 @@
+import java.util.Calendar;
+import java.util.GregorianCalendar;
+
+public class TestaGasto {
+
+	public static void main(String[] args) {
+		Calendar dataNascimento = new GregorianCalendar(1997, 22 ,8);
+		Funcionario funcionario = new Funcionario("Marcos", 9, dataNascimento);
+		Calendar hoje = Calendar.getInstance();
+		Gasto gasto = new Gasto(40, "Taxi", funcionario, hoje);
+		System.out.println(gasto);
+	}
+}

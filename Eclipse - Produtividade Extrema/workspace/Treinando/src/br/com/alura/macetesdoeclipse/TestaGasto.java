@@ -1,0 +1,26 @@
+package br.com.alura.macetesdoeclipse;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
+
+public class TestaGasto {
+
+	public static void main(String[] args) {
+		Calendar dataNascimento = new GregorianCalendar(1997, 22 ,8);
+		Funcionario funcionario = new Funcionario("Marcos", 9, dataNascimento);
+		Calendar hoje = Calendar.getInstance();
+
+		Gasto gasto = new Gasto(40, "Taxi", funcionario, hoje);
+		Gasto gasto1 = new Gasto(40, "Taxi", funcionario, hoje);
+		Gasto gasto2 = new Gasto(40, "Taxi", funcionario, hoje);
+		Gasto gasto3 = new Gasto(40, "Taxi", funcionario, hoje);
+		Gasto gasto4 = new Gasto(40, "Taxi", funcionario, hoje);
+		Gasto gasto5 = new Gasto(40, "Taxi", funcionario, hoje);
+		
+		System.out.println(gasto);
+		System.out.println(gasto1);
+		System.out.println(gasto2);
+		System.out.println(gasto3);
+		System.out.println(gasto4);
+		System.out.println(gasto5);
+	}
+}

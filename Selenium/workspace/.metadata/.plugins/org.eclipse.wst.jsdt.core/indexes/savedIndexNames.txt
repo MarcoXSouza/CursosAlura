@@ -1,0 +1,13 @@
+INDEX VERSION 1.4+C:\Users\marcos.souza\Documents\Marcos\Java\Selenium\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+10170730.index
+2832295087.index
+73133926.index
+2872686868.index
+3895665734.index
+4269067510.index
+461889356.index
+3836667441.index
+3957418295.index
+3463860217.index
+2386713610.index
+1087218603.index

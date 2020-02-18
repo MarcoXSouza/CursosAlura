@@ -1,0 +1,3 @@
+127.0.0.1 - - [19/Dec/2019:12:58:35 -0300] "GET / HTTP/1.1" 404 721
+127.0.0.1 - - [19/Dec/2019:13:04:22 -0300] "GET / HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [19/Dec/2019:13:04:23 -0300] "GET /fj15-erp-web/WEB-INF/classes/br/com/caelum/empresa/web/LoggerFilter.java HTTP/1.1" 404 694

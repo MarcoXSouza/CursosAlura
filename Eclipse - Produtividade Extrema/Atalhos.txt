@@ -1,0 +1,38 @@
+ctrl + m - maximizar tela do eclipse;
+ctrl + espaço - autocompleta;
+ctrl + 1 - ajuda do eclipse;
+ctrl + s - salvar;
+ctrl + shift + s - salvar todas as abas;
+syso - System.out.println;
+main - metodo main;
+ctrl + f11 - imprime no console;
+f3 - abre a classe;
+ctrl + PgDn/PgUp - navegar nas abas do eclipse;
+ctrl + n - novo (classe, projeto etc);
+ctrl + shift + tab - comando utilizado para navegar nas opções;
+alt + shift + a - Seleção em bloco;
+ctrl + 3 - permite chamar qualquer menu apenas digitando as iniciais;
+ctrl + alt + seta para cima/baixo - copia a linha sem precisar selecionar;
+Alt + Shift + S - para abrir o gerador;
+Alt + Shift + S e depois E - para gerar o equals e o hashcode;
+ctrl + .(ponto) - leva o cursor ate o erro;
+ctrl + shift + f - formata e identa o codigo automaticamente;
+ctrl + shift + w - fecha todas as abas do eclipse;
+alt + shif + r - renomeia a variavel;
+alt + seta para cima/baixo - move a linha;
+ctrl + shift + r - procura arquivo pelo nome(pesquisa)*(asterisco)<- para 
+procurar por qualquer string e ?(interrogação)<- para trocar por um caractere qualquer;
+ctrl + shift + t - busca types, classes etc;
+ctrl + o - busca na classe a declaração ou metodo;
+ctrl + shift + g - find useds;
+ctrl + alt + h - mostra a hierarquia dos metodos;
+ctrl + f - procura e ainda substitui o que foi encontrado(renomeia);
+ctrl + j - incremental find;
+ctrl + k - proxima ocorrencia;
+ctrl + shift + k - ocorrencia anterior;
+ctrl + h - procura arquivo em qualquer classe;
+ctrl + shift + l - mostra todos os atalhos do eclipse;
+
+
+
+

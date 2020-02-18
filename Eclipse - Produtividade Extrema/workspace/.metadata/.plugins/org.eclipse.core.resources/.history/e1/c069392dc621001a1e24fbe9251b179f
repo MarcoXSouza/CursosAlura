@@ -1,0 +1,9 @@
+import java.util.Calendar;
+
+public class Funcionario {
+
+	public Funcionario(String nome, int matricula, Calendar dataNascimento) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

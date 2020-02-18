@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="Funcionario"/>
+<fullyQualifiedTypeName name="Gasto"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+<fullyQualifiedTypeName name="br.com.caelum.empresa.modelo.Gasto"/>
+<fullyQualifiedTypeName name="br.com.caelum.empresa.dao.DAO"/>
+<fullyQualifiedTypeName name="br.com.caelum.empresa.dao.GastoDAO"/>
+<fullyQualifiedTypeName name="com.sun.org.slf4j.internal.Logger"/>
+<fullyQualifiedTypeName name="com.sun.istack.internal.logging.Logger"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayInputStream"/>
+<fullyQualifiedTypeName name="br.com.caelum.empresa.leitor.ImportadorDeGastos"/>
+</qualifiedTypeNameHistroy>

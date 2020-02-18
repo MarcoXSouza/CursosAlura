@@ -1,0 +1,16 @@
+2019-12-18 15:25:59,788 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-18 16:44:17,339 [Worker-33: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TesteDeSistema:Selenium:0.0.1-SNAPSHOT @ C:\Users\marcos.souza\Documents\Marcos\Java\Selenium\workspace\Selenium\pom.xml.
+2019-12-18 16:44:20,140 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 16:44:20,140 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marcos.souza\Documents\Marcos\Java\Selenium\workspace\Selenium\src\main\resources
+2019-12-18 16:44:20,142 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 16:44:20,142 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marcos.souza\Documents\Marcos\Java\Selenium\workspace\Selenium\src\test\resources
+2019-12-18 16:44:20,447 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 16:44:20,448 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marcos.souza\Documents\Marcos\Java\Selenium\workspace\Selenium\src\main\resources
+2019-12-18 16:44:20,449 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 16:44:20,449 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marcos.souza\Documents\Marcos\Java\Selenium\workspace\Selenium\src\test\resources
+2019-12-18 16:44:21,216 [Worker-36: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TesteDeSistema:Selenium:0.0.1-SNAPSHOT @ C:\Users\marcos.souza\Documents\Marcos\Java\Selenium\workspace\Selenium\pom.xml.
+2019-12-18 16:44:21,783 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 16:44:21,783 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marcos.souza\Documents\Marcos\Java\Selenium\workspace\Selenium\src\main\resources
+2019-12-18 16:44:21,785 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 16:44:21,785 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marcos.souza\Documents\Marcos\Java\Selenium\workspace\Selenium\src\test\resources
+2019-12-19 10:21:22,292 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

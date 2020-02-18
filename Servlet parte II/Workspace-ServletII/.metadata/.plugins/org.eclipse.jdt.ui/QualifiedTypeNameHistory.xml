@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.acao.ListaEmpresas"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.acao.MostraEmpresa"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.acao.RemovaEmpresa"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.acao.Acao"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.modelo.Banco"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.modelo.Usuario"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="javax.servlet.Filter"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebFilter"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.modelo.Empresa"/>
+    <fullyQualifiedTypeName name="com.google.gson.Gson"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="com.thoughtworks.xstream.XStream"/>
+    <fullyQualifiedTypeName name="org.apache.http.client.fluent.Form"/>
+    <fullyQualifiedTypeName name="org.apache.http.client.fluent.Request"/>
+</qualifiedTypeNameHistroy>
